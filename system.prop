@@ -3,7 +3,5 @@ ro.chipname=s905x2
 ro.arch=g12a
 ro.boot.bootdevice=ffe07000.emmc
 ro.sf.lcd_density=240
-ro.secure=1
-ro.adb.secure=0
 ro.boot.avb_version=1.0
 ro.boot.vbmeta.avb_version=1.0
